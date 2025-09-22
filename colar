@@ -1,0 +1,8 @@
+
+Crie uma classe Livro com atributos titulo, autor e paginas.
+
+Crie métodos para:
+
+detalhes() → retorna uma string com as informações do livro.
+
+eh_grande() → retorna True se tiver mais de 300 páginas.
